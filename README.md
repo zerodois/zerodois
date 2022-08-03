@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-felipelopesrita@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelopesrita@gmail.com)](mailto:felipelopesrita@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/zerodois.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/zerodois?tab=followers)
 
-**💼 Currently working as:** Software Engineer at <a href="https://hurb.com.br/" target="_blank"><b>Hurb</b></a>
+**💼 Currently working as:** Software Engineer at <a href="https://hurb.com" target="_blank"><b>Hurb</b></a>
 
 **👨🏻‍💻 Currently working on:** 
 
