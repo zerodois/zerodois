@@ -12,7 +12,7 @@
 
 <code><a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="45" src="https://cdn-icons-png.flaticon.com/512/6358/6358046.png"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerodois&layout=compact)](https://github.com/zerodois/github-readme-stats)
